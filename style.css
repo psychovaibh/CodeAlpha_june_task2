@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: inline-flexbox;
+}
+body{
+    height: 800px;
+    width: 100%;
+}
+
+.mainBody{
+    margin: 10% auto;
+    width: 35%;
+    border: 3px solid;
+    align-self: center;
+    white-space: wrap;
+    text-align: center;
+    height: 200px;
+    width: 350px;
+    background-color: whitesmoke;
+}
